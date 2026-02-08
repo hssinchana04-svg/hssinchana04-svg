@@ -107,9 +107,6 @@
 
 ---
 
-### 👀 Profile Views
-![Moe Counter](https://count.getloli.com/get/@hssinchana04-svg?theme=booru-r6gdrawfriends)
-
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-trophies.vercel.app/?username=hssinchana04-svg&theme=dracula&column=7&margin-w=15)
 
