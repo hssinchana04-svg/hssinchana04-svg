@@ -106,6 +106,8 @@
 ![Sinchana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hssinchana04-svg&theme=react-dark&hide_border=false&area=true)  
 
 ---
+### 📉Profile views 
+![Profile Views](https://profile-counter.glitch.me/hssinchana04/count.svg)
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-trophies.vercel.app/?username=hssinchana04-svg&theme=dracula&column=7&margin-w=15)
