@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinchana S</h1>
-<h3 align="center">⚡ EEE Student | 💻 MERN Stack Developer | 🚀 Exploring Spring Boot</h3>
+<h3 align="center">⚡ EEE Student | 💻 MERN Stack Developer | 🚀 Exploring System Design</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C9A7&center=true&vCenter=true&lines=EEE+Student+with+CS+Passion;MERN+Stack+Developer;DSA+Enthusiast;Spring+Boot+Explorer;Always+Learning+New+Things" />
 </p>
